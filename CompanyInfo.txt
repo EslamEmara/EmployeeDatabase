@@ -1,0 +1,13 @@
+SOAD Company titles
+------------------------
+Head
+HR
+FR
+President
+Vice President
+Manager
+Worker
+Lawyer
+Founder
+Co-Founder
+Major
